@@ -36,6 +36,11 @@ An Android Application that calculates user Body Mass Index(BMI) and Basal metab
 ![history_BMI](https://user-images.githubusercontent.com/73873490/135720472-efe7b95e-e2c5-434d-bf9f-8e0bba4a1971.jpg)
 ![history_BMR](https://user-images.githubusercontent.com/73873490/135720477-31ade6c4-71f4-4a50-8a20-b20843b7e968.jpg)
 
+- **Details history BMI and History BMR**
+
+![history_bmi_details](https://user-images.githubusercontent.com/73873490/135767392-a8544b6c-fa8e-4f28-ac0f-83bf60525aff.jpg)
+![history_BMR_Details](https://user-images.githubusercontent.com/73873490/135767393-36b07513-93dc-439d-acc5-fa3e564b5b62.jpg)
+
 
 
 ### BMI Dashboard
