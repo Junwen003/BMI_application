@@ -11,9 +11,25 @@ An Android Application that calculates user Body Mass Index(BMI) and Basal metab
 # Build With
 - MIT App Inventor
 
+# API
+- Google Sheets (for save the data)
+
 # Installation 
 - Download the BMI_MAKE_POSSIBLE.aia file and open the website http://ai2.appinventor.mit.edu/ 
 - Import the  BMI_MAKE_POSSIBLE.aia into http://ai2.appinventor.mit.edu/ 
+
+# App Version
+**Version 1.2**
+- Enhance Screen 11 dashboard interface
+- Enhance the label of data Screen 11 Bar Chart
+
+
+**Version 1.1**
+- Enhance the time interval of screen 1
+- Change the screen title (screen 2,screen 3, screen 4, screen 5, screen 6, screen 7,screen 8,screen9 , screen10, screen 11)
+- Enhance screen 7 and screen 8 user interface
+- Change screen 11 chart title 
+- Enhance screen 11 line chart value
 
 # APP Preview 
 - **Home Screen**
