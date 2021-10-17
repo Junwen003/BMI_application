@@ -10,9 +10,14 @@ An Android Application that calculates user Body Mass Index(BMI) and Basal metab
 
 # Build With
 - MIT App Inventor
+- Google Form
+- Google Sheets
+- Google Chart
 
 # API
 - Google Sheets (for save the data)
+- Google Chart
+- Google Form
 
 # Installation 
 - Download the BMI_MAKE_POSSIBLE.aia file and open the website http://ai2.appinventor.mit.edu/ 
