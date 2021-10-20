@@ -36,6 +36,10 @@ An Android Application that calculates user Body Mass Index(BMI) and Basal metab
 - Change screen 11 chart title 
 - Enhance screen 11 line chart value
 
+# Time Flow Implement Project
+![fc128461a0c23c608215f3539f2ebde](https://user-images.githubusercontent.com/73873490/138118529-cd8b193e-1135-4cc3-b8a6-fb769bd4dfe7.jpg)
+
+
 # APP Preview 
 - **Home Screen**
 
